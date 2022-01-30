@@ -11,7 +11,7 @@ title: "[Cidade] [Posição (Design, Frontend, QA)] na NOME DA EMPRESA"
     1.1. Abrir diversas issues para a mesma vaga em um curto período de tempo.
     1.2. Fechar qualquer issue.
 
-Se alguma issue aberta por você é referente a uma vaga que não está mais aberta, mude o título da issue para [VAGA FECHADA]. NÃO feche a issue ou será bloqueado. Para saber mais leia: https://github.com/qa-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado.
+Se alguma issue aberta por você é referente a uma vaga que não está mais aberta, mude o título da issue para [VAGA FECHADA]. NÃO feche a issue ou será bloqueado. Para saber mais leia: https://github.com/acessibilidade-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado.
 
 2. É permito postar vagas relacionadas diretamente com Acessibilidade Digital.
 3. Utilize o template abaixo como guia, sem apagar as seções e apenas alterando as informações de dentro delas.
@@ -20,7 +20,7 @@ Se alguma issue aberta por você é referente a uma vaga que não está mais abe
 
 ## Descrição da vaga
 
-Projeto bazinga em Selenium, etc.
+Design System acessível, etc.
 
 ## Local de trabalho
 <!-- escolha apenas 1 das linhas abaixo, ajuste para o seu contexto e exclua as outras -->
@@ -102,4 +102,4 @@ Apague os itens abaixo que não corresponderem à vaga. -->
 <!--- Se sua vaga não for do Brasil, apague a linha de estado acima e deixe a de baixo --->
 - Exterior
 
-## Recrutador: NÃO feche essa issue caso a vaga não exista mais ou poderá ser bloqueado. Leia https://github.com/qa-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado para saber o que fazer.
+## Recrutador: NÃO feche essa issue caso a vaga não exista mais ou poderá ser bloqueado. Leia https://github.com/acessibilidade-brasil/vagas#%EF%B8%8F-importante---leia-para-n%C3%A3o-ser-bloqueado para saber o que fazer.
