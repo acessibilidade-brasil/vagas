@@ -21,5 +21,5 @@ jobs:
     - uses: actions/labeler@v2
       with:
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
-        labels-synonyms: '{"Inglês":["inglês","english"]}'
+        sync-labels: '{"Inglês":["inglês","english"]}'
         labels-not-allowed: '["Pendente de Informações"]'
