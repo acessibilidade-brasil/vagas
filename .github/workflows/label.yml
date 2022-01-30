@@ -22,4 +22,3 @@ jobs:
       with:
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
         sync-labels: '{"Inglês":["inglês","english"]}'
-        labels-not-allowed: '["Pendente de Informações"]'
