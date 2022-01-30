@@ -6,7 +6,7 @@
 <img alt="Quantidade de pessoas que estão visualizando o repositório" src="https://img.shields.io/github/watchers/acessibilidade-brasil/vagas?label=Watchers:&color=green&style=for-the-badge"><br>
 
 
-* [Verifique as vagas já cadastradas](https://github.com/qa-brasil/vagas/issues)
+* [Verifique as vagas já cadastradas](https://github.com/acessibilidade-brasil/vagas/issues)
 * [Como recebo por e-mail as vagas?](#como-receber-atualizações-de-novas-vagas)
 * [Sou recrutador, como cadastro uma vaga?](#cadastrando-uma-vaga)
 * [Código de conduta](CODE_OF_CONDUCT.md)
