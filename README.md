@@ -6,10 +6,10 @@
 <img alt="Quantidade de pessoas que estão visualizando o repositório" src="https://img.shields.io/github/watchers/acessibilidade-brasil/vagas?label=Watchers:&color=green&style=for-the-badge"><br>
 
 
-* [Verifique as vagas já cadastradas](https://github.com/acessibilidade-brasil/vagas/issues)
-* [Como recebo por e-mail as vagas?](#como-receber-atualizações-de-novas-vagas)
-* [Sou recrutador, como cadastro uma vaga?](#cadastrando-uma-vaga)
-* [Código de conduta](CODE_OF_CONDUCT.md)
+- [Verifique as vagas já cadastradas](https://github.com/acessibilidade-brasil/vagas/issues)
+- [Como recebo por e-mail as vagas?](#como-receber-atualizações-de-novas-vagas)
+- [Sou recrutador, como cadastro uma vaga?](#cadastrando-uma-vaga)
+- [Código de conduta](CODE_OF_CONDUCT.md)
 
 ## Como receber atualizações de novas vagas
 
@@ -58,9 +58,7 @@ Como esse repositório é específico para a postagem de vagas de **acessibilida
 ### Por área
 
 - [Vagas para desenvolvedores Back-End](https://github.com/backend-br/vagas)
-- [Vagas para desenvolvedores Chat-Bot](https://github.com/chatbotbr/vagas)
 - [Vagas para desenvolvedores Front-End](https://github.com/frontendbr/vagas)
-- [Vagas para UI/UX](https://github.com/uxbrasil/vagas)
 - [Vagas para QAs](https://github.com/qa-brasil/vagas)
 
 ### Por tecnologia
@@ -68,7 +66,7 @@ Como esse repositório é específico para a postagem de vagas de **acessibilida
 - [Vagas para desenvolvedores Android](https://github.com/androiddevbr/vagas)
 - [Vagas para desenvolvedores iOS e OSX](https://github.com/CocoaHeadsBrasil/vagas)
 - [Vagas para desenvolvedores PHP](https://github.com/phpdevbr/vagas)
-- [Vagas para desenvolvedores Python](https://pyjobs.com.br)
+- [Vagas para desenvolvedores Python](https://github.com/pydevbr/vagas)
 - [Vagas para desenvolvedores Vue.js](https://github.com/vuejs-br/vagas)
 - [Vagas para desenvolvedores Go/Golang](https://github.com/Gommunity/vagas)
 - [Vagas para Flutter](https://github.com/flutter-brazil/vagas)
@@ -79,14 +77,15 @@ Como esse repositório é específico para a postagem de vagas de **acessibilida
 ### Por localidade
 
 - [Vagas para desenvolvedores no Ceará](https://github.com/CangaceirosDevels/vagas_de_emprego)
+- [Vagas para desenvolvedores em Salvador](https://github.com/devssa/onde-codar-em-salvador)
 - [Vagas para desenvolvedores Front-end (Angola)](https://github.com/frontend-ao/vagas)
 - [Vagas para desenvolvedores Back-end (Angola)](https://github.com/backend-ao/vagas)
 - [Vagas para desenvolvedores Front-end (Portugal)](https://github.com/frontend-pt/vagas)
 - [Vagas para desenvolvedores Back-end (Portugal)](https://github.com/backend-pt/vagas)
 
-## Agradecimentos 
+## Agradecimentos
 
 Esse projeto deve inspiração direta nos repositórios de vagas do [QA Brasil](https://github.com/qa-brasil).
 
 ---
-_Licença [MIT](/LICENSE) &copy; Acessibilidade Brasil_
+*Licença [MIT](/LICENSE) &copy; Acessibilidade Brasil*
